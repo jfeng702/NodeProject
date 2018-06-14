@@ -26,7 +26,7 @@ const SurveyNew = () => <h2>SurveyNew</h2>;
          </BrowserRouter>
        </div>
      );
-   };
+   }
  }
 
 
